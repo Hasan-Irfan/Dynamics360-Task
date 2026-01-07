@@ -1,0 +1,61 @@
+
+.events-section {
+  background: #f4f6f8; 
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.hover-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.55),
+    rgba(0, 0, 0, 0.55)
+  );
+  z-index: 1;
+}
+
+.hero-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+  z-index: 2;
+  padding: 0 1rem;
+}
+
+.hero-content h1 {
+  max-width: 800px;
+}
+
+.hero-content p {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.contact-section h2,
+.contact-section p,
+.contact-section label {
+  color: #000000;
+}
+
+.contact-section .card {
+  background: #c0bfbf;
+  border-radius: 14px;
+}
