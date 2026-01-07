@@ -18,4 +18,4 @@
 3. Run `npm run dev`
 
 ## Live Preview
-(Add Netlify / GitHub Pages / Vercel link here)
+https://dynamic360events.netlify.app/
